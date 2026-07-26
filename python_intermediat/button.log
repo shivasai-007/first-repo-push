@@ -1,0 +1,24 @@
+Worker-1 - Step 0
+Worker-2 - Step 0
+Worker-1 - Step 1
+Worker-2 - Step 1
+Worker-2 - Step 2
+Worker-1 - Step 2
+Worker-1 - Step 3
+Worker-2 - Step 3
+Worker-2 - Step 4
+Worker-1 - Step 4
+Worker-2 - Step 5
+Worker-1 - Step 5
+INFO - Worker-1 - Step 0
+INFO - Worker-2 - Step 0
+INFO - Worker-2 - Step 1
+INFO - Worker-1 - Step 1
+INFO - Worker-2 - Step 2
+INFO - Worker-1 - Step 2
+INFO - Worker-2 - Step 3
+INFO - Worker-1 - Step 3
+INFO - Worker-2 - Step 4
+INFO - Worker-1 - Step 4
+INFO - Worker-2 - Step 5
+INFO - Worker-1 - Step 5
